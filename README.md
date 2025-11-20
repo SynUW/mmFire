@@ -149,3 +149,114 @@ python test_and_visualize_full.py
 
 ---
 For environment or training issues, please contact the maintainer or submit an issue. 
+
+# Wildfire Risk Prediction Research License (WRPRL v1.0)
+ 
+Copyright (c) 2025  
+**Lincoln Xu / Geospatial Sensing and Intelligence Lab (GSIL)  
+University of Calgary**  
+All rights reserved.
+ 
+## 1. Purpose
+This license allows **non-commercial academic research use** of the accompanying **code, datasets, and machine-learning models**.  
+Any **commercial use** requires a **separate paid commercial license** from the authors.
+ 
+This license applies to all files in this repository, including but not limited to source code, models, pretrained weights, data, scripts, and documentation.
+ 
+---
+ 
+## 2. Definitions
+ 
+### 2.1 Non-Commercial Academic Research
+Use by:
+- universities  
+- publicly funded research institutes  
+- students and academic staff  
+- non-profit scientific projects  
+ 
+**AND** where the primary purpose is scientific research, with:
+- no commercial product or service created,  
+- no internal business use,  
+- no revenue generated.
+ 
+### 2.2 Commercial Use
+Any use **not** permitted in Section 2.1, including:
+- internal use by companies or startups  
+- consulting or contract research for industry  
+- integration into products, services, or operational systems  
+- generation of revenue or commercial value  
+- government operational use (e.g., wildfire risk forecasting, decision support)
+ 
+If uncertain, the use is presumed **commercial**.
+ 
+---
+ 
+## 3. Academic Research License Grant
+ 
+You are granted a **royalty-free**, **non-exclusive**, **non-transferable**, **revocable** license to:
+ 
+- use, modify, and analyze the code, data, and models  
+- publish non-commercial academic results, papers, theses, and presentations  
+- share modified versions **only with academic collaborators**
+ 
+### You may NOT:
+- use the materials for commercial purposes  
+- redistribute the data or models publicly  
+- host pretrained models publicly (e.g., HuggingFace, GitHub releases)  
+- sell or provide paid services using the materials  
+- remove or alter copyright or license notices  
+ 
+---
+ 
+## 4. Commercial Licensing
+Commercial users **must obtain a commercial license**.
+ 
+To request commercial licensing, please contact:  
+**lincoln.xu@ucalgary.ca**
+ 
+The authors reserve the right to approve, deny, or negotiate terms.
+ 
+---
+ 
+## 5. No Warranty
+The materials are provided **“AS IS”** without warranty of any kind.  
+The authors are **not liable** for any damages or losses resulting from their use.
+ 
+---
+ 
+## 6. Termination
+This license automatically terminates if any terms are violated.  
+Upon termination, all copies of the code, data, models, and derivatives must be destroyed.
+ 
+---
+ 
+## 7. Patents
+No patent rights are granted under this license.
+ 
+---
+ 
+## 8. Citation Requirement
+Academic users must include the following citation in all publications:
+ 
+> Xu, L., Geospatial Sensing and Intelligence Lab (GSIL), University of Calgary.  
+> Wildfire Risk Prediction Model and Dataset.  
+> [Add DOI or preprint link when available]
+ 
+---
+ 
+## 9. Custom Terms Override
+Where these terms conflict with any external open-source components within this repository,  
+**this license governs the code, data, and models produced by the authors.**
+ 
+---
+ 
+## 10. Contact
+For commercial licensing, collaborations, or questions:  
+**Dr. Linlin (Lincoln) Xu**  
+**Geospatial Sensing and Intelligence Lab (GSIL)**  
+**University of Calgary**  
+**linlin.xu@ucalgary.ca**
+ 
+---
+ 
+# END OF LICENSE
