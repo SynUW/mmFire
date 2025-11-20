@@ -151,7 +151,9 @@ python test_and_visualize_full.py
 For environment or training issues, please contact the maintainer or submit an issue. 
 
 # Wildfire Risk Prediction Research License (WRPRL v1.0)
- 
+
+---
+
 Copyright (c) 2025  
 **Lincoln Xu / Geospatial Sensing and Intelligence Lab (GSIL)  
 University of Calgary**  
